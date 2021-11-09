@@ -1,0 +1,27 @@
+
+[
+    {
+        "Movie" : "Anurodh",
+        "Title" : "JabDardNahiThi",
+        "SongLength" :  "4:50",
+        "Singer" : "Kishore"
+    },
+    {
+        "Movie" : "KabhiKabhi",
+       "Title" :"MePalDoPal",
+        "SongLength" : "3:45",
+        "Singer" : "Mukesh"
+    },
+    {
+        "Movie" : "Aradhana" ,
+       "Title" : "AajaTujhko",
+        "SongLength" : "4:45",
+        "Singer" : "Rafi"
+    },
+    {
+        "Movie" : "MungaruMale",
+       "Title" : "Anisuthidhe", 
+        "SongLength" : "5:45", 
+        "Singer" : "SonuNigam"
+    }
+]

@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+header {
+  text-align: center;
+  color: pink;
+}
+
+button {
+  text-align: center;
+  padding: 8px;
+  margin: 10px;
+  background-color: #4b9fff;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #3a7ac4;
+}
+
+.Allsongs {
+  color: blue;
+}
+.SongsList {
+  color: #3a7ac4;
+}
+.Allsongs, .SongsList {
+  text-align: left;
+  margin-left: 30px;
+}
+
+table, thead, tbody, td, tr, th {
+  border: 1px solid #4b9fff;
+}
+
+#Form, table {
+  color: #366caa;
+  text-align: left;
+  margin-left: 30px;
+}
